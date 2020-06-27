@@ -5,3 +5,4 @@ Professor Albus Percival Wulfric Brian Dumbledore is a famous magician in the Ha
 * doesn't like magic beans
 * friendly
 * mystic
+> I had proven, as a very young man, that power was my weakness and temptation. I was safer at Hogwarts. I think I was a good teacher.
